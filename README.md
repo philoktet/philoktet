@@ -32,7 +32,11 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+## 🎓 Научная деятельность
+### 📚 Публикации
+[![eLibrary](https://img.shields.io/badge/-eLibrary-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://elibrary.ru/author_items.asp?authorid=1192802)
 
+---
 ## 🏆 Ключевые проекты
 
 #### [Логос Прочность](http://logos.vniief.ru/)
