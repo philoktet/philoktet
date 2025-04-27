@@ -55,4 +55,4 @@
 
 ## 📫 Контакты
 [![Email](https://img.shields.io/badge/-fogolomidov@yandex.ru-FF0000?style=flat&logo=mail.ru&logoColor=white)](mailto:fogolomidov@yandex.ru)
-[![Telegram](https://img.shields.io/badge/-@yourtg-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/philoktet)
+[![Telegram](https://img.shields.io/badge/-@philoktet-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/philoktet)
